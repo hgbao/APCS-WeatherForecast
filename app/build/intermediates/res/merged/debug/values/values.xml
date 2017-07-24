@@ -696,6 +696,9 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="activity_current">Weather</string>
+    <string name="activity_setting">Settings</string>
+    <string name="activity_weekly">Weekly weather</string>
     <string name="app_name">Weather forecast</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="author_email">hgbao@apcs.vn</string>

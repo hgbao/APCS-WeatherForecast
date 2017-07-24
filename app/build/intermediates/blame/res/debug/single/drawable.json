@@ -64,6 +64,10 @@
         "source": "C:\\Users\\hella\\.android\\build-cache\\2cb482429ff531770546397ec2d63c7fbefd6e7f\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
+        "merged": "C:\\Users\\hella\\OneDrive\\AndroidStudio\\WeatherForecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more.png",
+        "source": "C:\\Users\\hella\\OneDrive\\AndroidStudio\\WeatherForecast\\app\\src\\main\\res\\drawable\\ic_more.png"
+    },
+    {
         "merged": "C:\\Users\\hella\\OneDrive\\AndroidStudio\\WeatherForecast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Users\\hella\\.android\\build-cache\\2cb482429ff531770546397ec2d63c7fbefd6e7f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
