@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hella\OneDrive\AndroidStudio\WeatherForecast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f9f78bf11537c327883337eae2a5d80d19d6221e">
+        <dex dex="C:\Users\hella\OneDrive\AndroidStudio\WeatherForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_24e08323c0b48f52523379d47d667f0fe4de19e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hella\OneDrive\AndroidStudio\WeatherForecast\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\hella\OneDrive\AndroidStudio\WeatherForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_30b44ca870c75461b5f4e553c128f89910fc850a\classes.dex" />
+    </item>
+
+</items>
